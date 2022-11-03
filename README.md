@@ -6,12 +6,15 @@
 ## LayOut_Figam
 [team01피그마 주소](https://www.figma.com/file/8AzVYah2NAvSDHoquxJ5NC/hello%5E_%5E?node-id=0%3A1)
 
-## 앞으로 구현할 페이지
+## 00-제안서
+[GoogleDrive](https://drive.google.com/drive/folders/11hELbQXO3Z5ktw52Vl8XsIdMeXaHS2mI)
 
-**목요일까지 각자 레이아웃 그려오기**  
-메인페이지/회원가입/로그인/마이페이지/장바구니/공지사항(고객센터)  
-마이페이지  
+## 과제 01-요구사항확인(MindMap)
 
-## data, db 구상
-
-api? ...
+## 앞으로 남은것들
+ - 02-화면설계(목업)
+ - 03-요구사항정의,WBS(Excel)
+ - 04-화면구현(Github 대체)
+ - 05-데이터베이스구현(ERD,테이블명세)
+ - 06-서버,통합구현(Github 대체)
+ - 07-테스트,배포
