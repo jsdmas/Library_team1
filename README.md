@@ -1,8 +1,7 @@
 # Libarary_Project
-
+이현우, 김효진, 홍승택, 장진호 (4명)
 ## 전체구상
-
-운영자 <-> 구매자 + 커뮤니티?(도서 평가, 정보 등등...)
+교보문고 느낌
 ## LayOut_Figam
 [team01피그마 주소](https://www.figma.com/file/8AzVYah2NAvSDHoquxJ5NC/hello%5E_%5E?node-id=0%3A1)
 
